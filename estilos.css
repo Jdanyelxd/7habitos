@@ -34,7 +34,7 @@ body {
 .contenedor .contenido {
     text-align: center;
     grid-column: span 3;
-    background-color: white;
+    background-color: rgb(0, 197, 247);
 }
 
 .contenedor .widget-1 {
