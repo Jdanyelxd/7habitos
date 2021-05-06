@@ -36,3 +36,52 @@ body {
     grid-column: span 3;
     background-color: white;
 }
+
+.contenedor .widget-1 {
+    background-color: green;
+    color: ivory;
+    grid-column-start: 1;
+    grid-column-end: 2;
+}
+
+.contenedor .widget-2 {
+    background-color: green;
+    color: ivory;
+    grid-column-start: 2;
+    grid-column-end: 3;
+}
+
+.contenedor .widget-3 {
+    background-color: green;
+    color: ivory;
+    grid-column-start: 3;
+    grid-column-end: 4;
+}
+
+.contenedor .widget-4 {
+    background-color: green;
+    color: ivory;
+    grid-column-start: 1;
+    grid-column-end: 2;
+}
+
+.contenedor .widget-5 {
+    background-color: green;
+    color: ivory;
+    grid-column-start: 2;
+    grid-column-end: 3;
+}
+
+.contenedor .widget-6 {
+    background-color: green;
+    color: ivory;
+    grid-column-start: 3;
+    grid-column-end: 4;
+}
+
+.contenedor .widget-7 {
+    background-color: green;
+    color: ivory;
+    grid-column-start: 2;
+    grid-column-end: 3;
+}
