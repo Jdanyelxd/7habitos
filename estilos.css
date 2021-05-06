@@ -4,7 +4,7 @@
 }
 
 body {
-    background-color: gray;
+    background-color: rgb(0, 128, 117);
 }
 
 .contenedor {
@@ -24,13 +24,15 @@ body {
 }
 
 .contenedor .header {
+    text-align: center;
     background-color: blue;
-    color: cadetblue;
-    grid-column-start: 1;
-    grid-column-end: 4;
+    color: rgb(255, 0, 0);
+    grid-column-start: 2;
+    grid-column-end: 2;
 }
 
 .contenedor .contenido {
-    grid-column: span 2;
+    text-align: center;
+    grid-column: span 3;
     background-color: white;
 }
