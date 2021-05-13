@@ -58,394 +58,386 @@ body {
     grid-column-end: 4;
 }
 
-.contenedor .widget-11 {
-    background-color: green;
-    color: ivory;
-    grid-column-start: 1;
+
+
+
+
+
+.contenedor1 {
+    width: 80%;
+    max-width: 1200px;
+    margin: 20px auto;
+    display: grid;
+    grid-gap: 20px;
+    grid-template-columns: repeat(3, 1fr);
+    grid-template-columns: repeat(3, auto);
+}
+
+.contenedor1 > div {
+    background-color:white;
+    padding: 20px;
+    border-radius: 4px;
+}
+
+.contenedor1 .header1 {
+    text-align: center;
+    background-color: blue;
+    color: rgb(255, 0, 0);
+    grid-column-start: 2;
     grid-column-end: 2;
 }
 
-.contenedor .widget-21 {
+.contenedor1 .contenido1 {
+    text-align: center;
+    grid-column: span 4;
+    background-color: rgb(0, 197, 247);
+}
+
+.contenedor1 .widget-11 {
     background-color: green;
     color: ivory;
-    grid-column-start: 2;
+    grid-column-start: 1;
     grid-column-end: 3;
 }
 
-.contenedor .widget-31 {
-    background-color: green;
+.contenedor1 .widget-31 {
+    background-color: rgb(0, 128, 117);
     color: ivory;
     grid-column-start: 3;
     grid-column-end: 4;
 }
 
-.contenedor .widget-41 {
+.contenedor1 .widget-41 {
     background-color: green;
     color: ivory;
     grid-column-start: 1;
-    grid-column-end: 2;
-}
-
-.contenedor .widget-51 {
-    background-color: green;
-    color: ivory;
-    grid-column-start: 2;
-    grid-column-end: 3;
-}
-
-.contenedor .widget-61 {
-    background-color: green;
-    color: ivory;
-    grid-column-start: 3;
     grid-column-end: 4;
 }
 
-.contenedor .widget-71 {
-    background-color: green;
-    color: ivory;
-    grid-column-start: 2;
-    grid-column-end: 3;
+
+
+
+
+.contenedor2 {
+    width: 80%;
+    max-width: 1200px;
+    margin: 20px auto;
+    display: grid;
+    grid-gap: 20px;
+    grid-template-columns: repeat(3, 1fr);
+    grid-template-columns: repeat(3, auto);
 }
 
-.contenedor .widget-12 {
+.contenedor2 > div {
+    background-color:white;
+    padding: 20px;
+    border-radius: 4px;
+}
+
+.contenedor2 .header2 {
+    text-align: center;
+    background-color: blue;
+    color: rgb(255, 0, 0);
+    grid-column-start: 2;
+    grid-column-end: 4;
+}
+
+.contenedor2 .contenido2 {
+    text-align: center;
+    grid-column: span 4;
+    background-color: rgb(0, 197, 247);
+}
+
+.contenedor2 .widget-12 {
     background-color: green;
     color: ivory;
     grid-column-start: 1;
-    grid-column-end: 2;
-}
-
-.contenedor .widget-22 {
-    background-color: green;
-    color: ivory;
-    grid-column-start: 2;
     grid-column-end: 3;
 }
 
-.contenedor .widget-32 {
-    background-color: green;
+.contenedor2 .widget-32 {
+    background-color: rgb(0, 128, 117);
     color: ivory;
     grid-column-start: 3;
-    grid-column-end: 4;
+    grid-column-end: 5;
 }
 
-.contenedor .widget-42 {
+.contenedor2 .widget-42 {
     background-color: green;
     color: ivory;
     grid-column-start: 1;
-    grid-column-end: 2;
+    grid-column-end: 5;
 }
 
-.contenedor .widget-52 {
-    background-color: green;
-    color: ivory;
+
+
+
+
+.contenedor3 {
+    width: 80%;
+    max-width: 1200px;
+    margin: 20px auto;
+    display: grid;
+    grid-gap: 20px;
+    grid-template-columns: repeat(3, 1fr);
+    grid-template-columns: repeat(3, auto);
+}
+
+.contenedor3 > div {
+    background-color:white;
+    padding: 20px;
+    border-radius: 4px;
+}
+
+.contenedor3 .header3 {
+    text-align: center;
+    background-color: blue;
+    color: rgb(255, 0, 0);
     grid-column-start: 2;
-    grid-column-end: 3;
-}
-
-.contenedor .widget-62 {
-    background-color: green;
-    color: ivory;
-    grid-column-start: 3;
     grid-column-end: 4;
 }
 
-.contenedor .widget-72 {
-    background-color: green;
-    color: ivory;
-    grid-column-start: 2;
-    grid-column-end: 3;
+.contenedor3 .contenido3 {
+    text-align: center;
+    grid-column: span 4;
+    background-color: rgb(0, 197, 247);
 }
 
-.contenedor .widget-13 {
+.contenedor3 .widget-13 {
     background-color: green;
     color: ivory;
     grid-column-start: 1;
-    grid-column-end: 2;
-}
-
-.contenedor .widget-23 {
-    background-color: green;
-    color: ivory;
-    grid-column-start: 2;
     grid-column-end: 3;
 }
 
-.contenedor .widget-33 {
-    background-color: green;
+.contenedor3 .widget-33 {
+    background-color: rgb(0, 128, 117);
     color: ivory;
     grid-column-start: 3;
-    grid-column-end: 4;
+    grid-column-end: 5;
 }
 
-.contenedor .widget-43 {
+.contenedor3 .widget-43 {
     background-color: green;
     color: ivory;
     grid-column-start: 1;
-    grid-column-end: 2;
+    grid-column-end: 5;
 }
 
-.contenedor .widget-53 {
-    background-color: green;
-    color: ivory;
+
+
+
+
+.contenedor4 {
+    width: 80%;
+    max-width: 1200px;
+    margin: 20px auto;
+    display: grid;
+    grid-gap: 20px;
+    grid-template-columns: repeat(3, 1fr);
+    grid-template-columns: repeat(3, auto);
+}
+
+.contenedor4 > div {
+    background-color:white;
+    padding: 20px;
+    border-radius: 4px;
+}
+
+.contenedor4 .header4 {
+    text-align: center;
+    background-color: blue;
+    color: rgb(255, 0, 0);
     grid-column-start: 2;
-    grid-column-end: 3;
-}
-
-.contenedor .widget-63 {
-    background-color: green;
-    color: ivory;
-    grid-column-start: 3;
     grid-column-end: 4;
 }
 
-.contenedor .widget-73 {
-    background-color: green;
-    color: ivory;
-    grid-column-start: 2;
-    grid-column-end: 3;
+.contenedor4 .contenido4 {
+    text-align: center;
+    grid-column: span 4;
+    background-color: rgb(0, 197, 247);
 }
 
-.contenedor .widget-14 {
+.contenedor4 .widget-14 {
     background-color: green;
     color: ivory;
     grid-column-start: 1;
-    grid-column-end: 2;
-}
-
-.contenedor .widget-24 {
-    background-color: green;
-    color: ivory;
-    grid-column-start: 2;
     grid-column-end: 3;
 }
 
-.contenedor .widget-34 {
-    background-color: green;
+.contenedor4 .widget-34 {
+    background-color: rgb(0, 128, 117);
     color: ivory;
     grid-column-start: 3;
-    grid-column-end: 4;
+    grid-column-end: 5;
 }
 
-.contenedor .widget-44 {
+.contenedor4 .widget-44 {
     background-color: green;
     color: ivory;
     grid-column-start: 1;
-    grid-column-end: 2;
+    grid-column-end: 5;
 }
 
-.contenedor .widget-54 {
-    background-color: green;
-    color: ivory;
+
+
+
+
+.contenedor5 {
+    width: 80%;
+    max-width: 1200px;
+    margin: 20px auto;
+    display: grid;
+    grid-gap: 20px;
+    grid-template-columns: repeat(3, 1fr);
+    grid-template-columns: repeat(3, auto);
+}
+
+.contenedor5 > div {
+    background-color:white;
+    padding: 20px;
+    border-radius: 4px;
+}
+
+.contenedor5 .header5 {
+    text-align: center;
+    background-color: blue;
+    color: rgb(255, 0, 0);
     grid-column-start: 2;
-    grid-column-end: 3;
-}
-
-.contenedor .widget-64 {
-    background-color: green;
-    color: ivory;
-    grid-column-start: 3;
     grid-column-end: 4;
 }
 
-.contenedor .widget-74 {
-    background-color: green;
-    color: ivory;
-    grid-column-start: 2;
-    grid-column-end: 3;
+.contenedor5 .contenido5 {
+    text-align: center;
+    grid-column: span 4;
+    background-color: rgb(0, 197, 247);
 }
 
-.contenedor .widget-15 {
+.contenedor5 .widget-15 {
     background-color: green;
     color: ivory;
     grid-column-start: 1;
-    grid-column-end: 2;
-}
-
-.contenedor .widget-25 {
-    background-color: green;
-    color: ivory;
-    grid-column-start: 2;
     grid-column-end: 3;
 }
 
-.contenedor .widget-35 {
-    background-color: green;
+.contenedor5 .widget-35 {
+    background-color: rgb(0, 128, 117);
     color: ivory;
     grid-column-start: 3;
-    grid-column-end: 4;
+    grid-column-end: 5;
 }
 
-.contenedor .widget-45 {
+.contenedor5 .widget-45 {
     background-color: green;
     color: ivory;
     grid-column-start: 1;
-    grid-column-end: 2;
+    grid-column-end: 5;
 }
 
-.contenedor .widget-55 {
-    background-color: green;
-    color: ivory;
+
+
+.contenedor6 {
+    width: 80%;
+    max-width: 1200px;
+    margin: 20px auto;
+    display: grid;
+    grid-gap: 20px;
+    grid-template-columns: repeat(3, 1fr);
+    grid-template-columns: repeat(3, auto);
+}
+
+.contenedor6 > div {
+    background-color:white;
+    padding: 20px;
+    border-radius: 4px;
+}
+
+.contenedor6 .header6 {
+    text-align: center;
+    background-color: blue;
+    color: rgb(255, 0, 0);
     grid-column-start: 2;
-    grid-column-end: 3;
-}
-
-.contenedor .widget-65 {
-    background-color: green;
-    color: ivory;
-    grid-column-start: 3;
     grid-column-end: 4;
 }
 
-.contenedor .widget-75 {
-    background-color: green;
-    color: ivory;
-    grid-column-start: 2;
-    grid-column-end: 3;
+.contenedor6 .contenido6 {
+    text-align: center;
+    grid-column: span 4;
+    background-color: rgb(0, 197, 247);
 }
 
-.contenedor .widget-16 {
+.contenedor6 .widget-16 {
     background-color: green;
     color: ivory;
     grid-column-start: 1;
-    grid-column-end: 2;
-}
-
-.contenedor .widget-26 {
-    background-color: green;
-    color: ivory;
-    grid-column-start: 2;
     grid-column-end: 3;
 }
 
-.contenedor .widget-36 {
-    background-color: green;
+.contenedor6 .widget-36 {
+    background-color: rgb(0, 128, 117);
     color: ivory;
     grid-column-start: 3;
-    grid-column-end: 4;
+    grid-column-end: 5;
 }
 
-.contenedor .widget-46 {
+.contenedor6 .widget-46 {
     background-color: green;
     color: ivory;
     grid-column-start: 1;
-    grid-column-end: 2;
+    grid-column-end: 5;
 }
 
-.contenedor .widget-56 {
-    background-color: green;
-    color: ivory;
+
+
+
+
+.contenedor7 {
+    width: 80%;
+    max-width: 1200px;
+    margin: 20px auto;
+    display: grid;
+    grid-gap: 20px;
+    grid-template-columns: repeat(3, 1fr);
+    grid-template-columns: repeat(3, auto);
+}
+
+.contenedor7 > div {
+    background-color:white;
+    padding: 20px;
+    border-radius: 4px;
+}
+
+.contenedor7 .header7 {
+    text-align: center;
+    background-color: blue;
+    color: rgb(255, 0, 0);
     grid-column-start: 2;
-    grid-column-end: 3;
-}
-
-.contenedor .widget-66 {
-    background-color: green;
-    color: ivory;
-    grid-column-start: 3;
     grid-column-end: 4;
 }
 
-.contenedor .widget-76 {
-    background-color: green;
-    color: ivory;
-    grid-column-start: 2;
-    grid-column-end: 3;
+.contenedor7 .contenido7 {
+    text-align: center;
+    grid-column: span 4;
+    background-color: rgb(0, 197, 247);
 }
 
-.contenedor .widget-17 {
+.contenedor7 .widget-17 {
     background-color: green;
     color: ivory;
     grid-column-start: 1;
-    grid-column-end: 2;
-}
-
-.contenedor .widget-27 {
-    background-color: green;
-    color: ivory;
-    grid-column-start: 2;
     grid-column-end: 3;
 }
 
-.contenedor .widget-37 {
-    background-color: green;
+.contenedor7 .widget-37 {
+    background-color: rgb(0, 128, 117);
     color: ivory;
     grid-column-start: 3;
-    grid-column-end: 4;
+    grid-column-end: 5;
 }
 
-.contenedor .widget-47 {
+.contenedor7 .widget-47 {
     background-color: green;
     color: ivory;
     grid-column-start: 1;
-    grid-column-end: 2;
-}
-
-.contenedor .widget-57 {
-    background-color: green;
-    color: ivory;
-    grid-column-start: 2;
-    grid-column-end: 3;
-}
-
-.contenedor .widget-67 {
-    background-color: green;
-    color: ivory;
-    grid-column-start: 3;
-    grid-column-end: 4;
-}
-
-.contenedor .widget-77 {
-    background-color: green;
-    color: ivory;
-    grid-column-start: 2;
-    grid-column-end: 3;
-}
-
-.contenedor .widget-11 {
-    background-color: green;
-    color: ivory;
-    grid-column-start: 1;
-    grid-column-end: 2;
-}
-
-.contenedor .widget-21 {
-    background-color: green;
-    color: ivory;
-    grid-column-start: 2;
-    grid-column-end: 3;
-}
-
-.contenedor .widget-31 {
-    background-color: green;
-    color: ivory;
-    grid-column-start: 3;
-    grid-column-end: 4;
-}
-
-.contenedor .widget-41 {
-    background-color: green;
-    color: ivory;
-    grid-column-start: 1;
-    grid-column-end: 2;
-}
-
-.contenedor .widget-51 {
-    background-color: green;
-    color: ivory;
-    grid-column-start: 2;
-    grid-column-end: 3;
-}
-
-.contenedor .widget-61 {
-    background-color: green;
-    color: ivory;
-    grid-column-start: 3;
-    grid-column-end: 4;
-}
-
-.contenedor .widget-71 {
-    background-color: green;
-    color: ivory;
-    grid-column-start: 2;
-    grid-column-end: 3;
+    grid-column-end: 5;
 }
