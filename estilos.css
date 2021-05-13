@@ -41,7 +41,7 @@ body {
     background-color: green;
     color: ivory;
     grid-column-start: 1;
-    grid-column-end: 2;
+    grid-column-end: 3;
 }
 
 .contenedor .widget-2 {
@@ -80,6 +80,398 @@ body {
 }
 
 .contenedor .widget-7 {
+    background-color: green;
+    color: ivory;
+    grid-column-start: 2;
+    grid-column-end: 3;
+}
+
+.contenedor .widget-11 {
+    background-color: green;
+    color: ivory;
+    grid-column-start: 1;
+    grid-column-end: 2;
+}
+
+.contenedor .widget-21 {
+    background-color: green;
+    color: ivory;
+    grid-column-start: 2;
+    grid-column-end: 3;
+}
+
+.contenedor .widget-31 {
+    background-color: green;
+    color: ivory;
+    grid-column-start: 3;
+    grid-column-end: 4;
+}
+
+.contenedor .widget-41 {
+    background-color: green;
+    color: ivory;
+    grid-column-start: 1;
+    grid-column-end: 2;
+}
+
+.contenedor .widget-51 {
+    background-color: green;
+    color: ivory;
+    grid-column-start: 2;
+    grid-column-end: 3;
+}
+
+.contenedor .widget-61 {
+    background-color: green;
+    color: ivory;
+    grid-column-start: 3;
+    grid-column-end: 4;
+}
+
+.contenedor .widget-71 {
+    background-color: green;
+    color: ivory;
+    grid-column-start: 2;
+    grid-column-end: 3;
+}
+
+.contenedor .widget-12 {
+    background-color: green;
+    color: ivory;
+    grid-column-start: 1;
+    grid-column-end: 2;
+}
+
+.contenedor .widget-22 {
+    background-color: green;
+    color: ivory;
+    grid-column-start: 2;
+    grid-column-end: 3;
+}
+
+.contenedor .widget-32 {
+    background-color: green;
+    color: ivory;
+    grid-column-start: 3;
+    grid-column-end: 4;
+}
+
+.contenedor .widget-42 {
+    background-color: green;
+    color: ivory;
+    grid-column-start: 1;
+    grid-column-end: 2;
+}
+
+.contenedor .widget-52 {
+    background-color: green;
+    color: ivory;
+    grid-column-start: 2;
+    grid-column-end: 3;
+}
+
+.contenedor .widget-62 {
+    background-color: green;
+    color: ivory;
+    grid-column-start: 3;
+    grid-column-end: 4;
+}
+
+.contenedor .widget-72 {
+    background-color: green;
+    color: ivory;
+    grid-column-start: 2;
+    grid-column-end: 3;
+}
+
+.contenedor .widget-13 {
+    background-color: green;
+    color: ivory;
+    grid-column-start: 1;
+    grid-column-end: 2;
+}
+
+.contenedor .widget-23 {
+    background-color: green;
+    color: ivory;
+    grid-column-start: 2;
+    grid-column-end: 3;
+}
+
+.contenedor .widget-33 {
+    background-color: green;
+    color: ivory;
+    grid-column-start: 3;
+    grid-column-end: 4;
+}
+
+.contenedor .widget-43 {
+    background-color: green;
+    color: ivory;
+    grid-column-start: 1;
+    grid-column-end: 2;
+}
+
+.contenedor .widget-53 {
+    background-color: green;
+    color: ivory;
+    grid-column-start: 2;
+    grid-column-end: 3;
+}
+
+.contenedor .widget-63 {
+    background-color: green;
+    color: ivory;
+    grid-column-start: 3;
+    grid-column-end: 4;
+}
+
+.contenedor .widget-73 {
+    background-color: green;
+    color: ivory;
+    grid-column-start: 2;
+    grid-column-end: 3;
+}
+
+.contenedor .widget-14 {
+    background-color: green;
+    color: ivory;
+    grid-column-start: 1;
+    grid-column-end: 2;
+}
+
+.contenedor .widget-24 {
+    background-color: green;
+    color: ivory;
+    grid-column-start: 2;
+    grid-column-end: 3;
+}
+
+.contenedor .widget-34 {
+    background-color: green;
+    color: ivory;
+    grid-column-start: 3;
+    grid-column-end: 4;
+}
+
+.contenedor .widget-44 {
+    background-color: green;
+    color: ivory;
+    grid-column-start: 1;
+    grid-column-end: 2;
+}
+
+.contenedor .widget-54 {
+    background-color: green;
+    color: ivory;
+    grid-column-start: 2;
+    grid-column-end: 3;
+}
+
+.contenedor .widget-64 {
+    background-color: green;
+    color: ivory;
+    grid-column-start: 3;
+    grid-column-end: 4;
+}
+
+.contenedor .widget-74 {
+    background-color: green;
+    color: ivory;
+    grid-column-start: 2;
+    grid-column-end: 3;
+}
+
+.contenedor .widget-15 {
+    background-color: green;
+    color: ivory;
+    grid-column-start: 1;
+    grid-column-end: 2;
+}
+
+.contenedor .widget-25 {
+    background-color: green;
+    color: ivory;
+    grid-column-start: 2;
+    grid-column-end: 3;
+}
+
+.contenedor .widget-35 {
+    background-color: green;
+    color: ivory;
+    grid-column-start: 3;
+    grid-column-end: 4;
+}
+
+.contenedor .widget-45 {
+    background-color: green;
+    color: ivory;
+    grid-column-start: 1;
+    grid-column-end: 2;
+}
+
+.contenedor .widget-55 {
+    background-color: green;
+    color: ivory;
+    grid-column-start: 2;
+    grid-column-end: 3;
+}
+
+.contenedor .widget-65 {
+    background-color: green;
+    color: ivory;
+    grid-column-start: 3;
+    grid-column-end: 4;
+}
+
+.contenedor .widget-75 {
+    background-color: green;
+    color: ivory;
+    grid-column-start: 2;
+    grid-column-end: 3;
+}
+
+.contenedor .widget-16 {
+    background-color: green;
+    color: ivory;
+    grid-column-start: 1;
+    grid-column-end: 2;
+}
+
+.contenedor .widget-26 {
+    background-color: green;
+    color: ivory;
+    grid-column-start: 2;
+    grid-column-end: 3;
+}
+
+.contenedor .widget-36 {
+    background-color: green;
+    color: ivory;
+    grid-column-start: 3;
+    grid-column-end: 4;
+}
+
+.contenedor .widget-46 {
+    background-color: green;
+    color: ivory;
+    grid-column-start: 1;
+    grid-column-end: 2;
+}
+
+.contenedor .widget-56 {
+    background-color: green;
+    color: ivory;
+    grid-column-start: 2;
+    grid-column-end: 3;
+}
+
+.contenedor .widget-66 {
+    background-color: green;
+    color: ivory;
+    grid-column-start: 3;
+    grid-column-end: 4;
+}
+
+.contenedor .widget-76 {
+    background-color: green;
+    color: ivory;
+    grid-column-start: 2;
+    grid-column-end: 3;
+}
+
+.contenedor .widget-17 {
+    background-color: green;
+    color: ivory;
+    grid-column-start: 1;
+    grid-column-end: 2;
+}
+
+.contenedor .widget-27 {
+    background-color: green;
+    color: ivory;
+    grid-column-start: 2;
+    grid-column-end: 3;
+}
+
+.contenedor .widget-37 {
+    background-color: green;
+    color: ivory;
+    grid-column-start: 3;
+    grid-column-end: 4;
+}
+
+.contenedor .widget-47 {
+    background-color: green;
+    color: ivory;
+    grid-column-start: 1;
+    grid-column-end: 2;
+}
+
+.contenedor .widget-57 {
+    background-color: green;
+    color: ivory;
+    grid-column-start: 2;
+    grid-column-end: 3;
+}
+
+.contenedor .widget-67 {
+    background-color: green;
+    color: ivory;
+    grid-column-start: 3;
+    grid-column-end: 4;
+}
+
+.contenedor .widget-77 {
+    background-color: green;
+    color: ivory;
+    grid-column-start: 2;
+    grid-column-end: 3;
+}
+
+.contenedor .widget-11 {
+    background-color: green;
+    color: ivory;
+    grid-column-start: 1;
+    grid-column-end: 2;
+}
+
+.contenedor .widget-21 {
+    background-color: green;
+    color: ivory;
+    grid-column-start: 2;
+    grid-column-end: 3;
+}
+
+.contenedor .widget-31 {
+    background-color: green;
+    color: ivory;
+    grid-column-start: 3;
+    grid-column-end: 4;
+}
+
+.contenedor .widget-41 {
+    background-color: green;
+    color: ivory;
+    grid-column-start: 1;
+    grid-column-end: 2;
+}
+
+.contenedor .widget-51 {
+    background-color: green;
+    color: ivory;
+    grid-column-start: 2;
+    grid-column-end: 3;
+}
+
+.contenedor .widget-61 {
+    background-color: green;
+    color: ivory;
+    grid-column-start: 3;
+    grid-column-end: 4;
+}
+
+.contenedor .widget-71 {
     background-color: green;
     color: ivory;
     grid-column-start: 2;
